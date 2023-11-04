@@ -1,0 +1,255 @@
+.setting, .setting * {
+    box-sizing: border-box;
+    }
+.setting {
+   background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+    width: 430px;
+    height: 932px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.settings {
+   color: #5bdbc4;
+    text-align: center;
+    font: 700 24px 'Inter', sans-serif;
+    position: absolute;
+    left: 81px;
+   top: 64px;
+    width: 277px;
+    height: 50px;
+   }
+
+.group-185 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group {
+   position: absolute;
+    left: 16px;
+   top: 67px;
+    overflow: visible;
+   }
+
+.rectangle-68 {
+   background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+    border-radius: 66px;
+    width: 403px;
+    height: 712px;
+    position: absolute;
+    left: 13px;
+   top: 129px;
+   }
+
+.rectangle-93 {
+   background: #dac8da;
+    width: 403px;
+    height: 78px;
+    position: absolute;
+    left: 13px;
+   top: 202px;
+   }
+
+.my-account {
+   color: #000000;
+    text-align: center;
+    font: 700 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 139px;
+   top: 233px;
+    width: 143px;
+    height: 21px;
+   }
+
+.rectangle-91 {
+   background: #dac8da;
+    width: 403px;
+    height: 84px;
+    position: absolute;
+    left: 13px;
+   top: 485px;
+   }
+
+.settings2 {
+   color: #000000;
+    text-align: center;
+    font: 700 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 147px;
+   top: 512px;
+    width: 113px;
+    height: 21px;
+   }
+
+.group-242 {
+   position: absolute;
+    inset: 0;
+   }
+
+.account-security {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -19px;
+   top: 315px;
+    width: 252px;
+    height: 21px;
+   }
+
+.group-240 {
+   position: absolute;
+    inset: 0;
+   }
+
+.my-addresses {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -25px;
+   top: 414px;
+    width: 252px;
+    height: 21px;
+   }
+
+.group-238 {
+   position: absolute;
+    inset: 0;
+   }
+
+.social-media-accounts {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -25px;
+   top: 620px;
+    width: 303px;
+    height: 21px;
+   }
+
+.group-237 {
+   position: absolute;
+    inset: 0;
+   }
+
+.happy-paw-rescue-rules {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 712px;
+    width: 252px;
+    height: 21px;
+   }
+
+.line-23 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 13px;
+   top: 676px;
+   }
+
+.group-239 {
+   position: absolute;
+    left: 16px;
+   top: 485px;
+    overflow: visible;
+   }
+
+.line-30 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 14px;
+   top: 381px;
+   }
+
+.line-31 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 10px;
+   top: 569px;
+   }
+
+.line-24 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 13px;
+   top: 778px;
+   }
+
+.group-241 {
+   position: absolute;
+    inset: 0;
+   }
+
+.rectangle-100 {
+   background: #f00707;
+    border-radius: 54px;
+    width: 388px;
+    height: 48px;
+    position: absolute;
+    left: 17px;
+   top: 809px;
+   }
+
+.log-out {
+   color: #ffffff;
+    text-align: left;
+    font: 700 16px 'Inter', sans-serif;
+    position: absolute;
+    left: 191px;
+   top: 835px;
+   }
+
+.rectangle-145 {
+   width: 23px;
+    height: 15px;
+    position: absolute;
+    left: 340px;
+   top: 320px;
+   }
+
+.rectangle-146 {
+   width: 23px;
+    height: 15px;
+    position: absolute;
+    left: 340px;
+   top: 420px;
+   }
+
+.rectangle-147 {
+   width: 23px;
+    height: 15px;
+    position: absolute;
+    left: 340px;
+   top: 621px;
+   }
+
+.rectangle-148 {
+   width: 23px;
+    height: 15px;
+    position: absolute;
+    left: 340px;
+   top: 723px;
+   }
+

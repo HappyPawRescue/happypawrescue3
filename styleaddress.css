@@ -1,0 +1,129 @@
+.address, .address * {
+   box-sizing: border-box;
+   }
+.address {
+  background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+   width: 430px;
+   height: 932px;
+   position: relative;
+   overflow: hidden;
+  }
+
+.rectangle-100 {
+  background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+   border-radius: 64px;
+   width: 403px;
+   height: 760px;
+   position: absolute;
+   left: 13px;
+  top: 112px;
+  }
+
+.your-addresses {
+  color: #5bdbc4;
+   text-align: center;
+   font: 700 24px 'Inter', sans-serif;
+   position: absolute;
+   left: 76px;
+  top: 62px;
+   width: 277px;
+   height: 50px;
+  }
+
+.group-186 {
+  position: absolute;
+   inset: 0;
+  }
+
+.group {
+  position: absolute;
+   left: 37px;
+  top: 62px;
+   overflow: visible;
+  }
+
+.add-address {
+  color: #000000;
+   text-align: center;
+   font: 700 24px 'Inter', sans-serif;
+   position: absolute;
+   left: 76px;
+  top: 169px;
+   width: 197px;
+   height: 27px;
+  }
+
+.edit {
+  color: #f00707;
+   text-align: center;
+   font: 700 18px 'Inter', sans-serif;
+   position: absolute;
+   left: 335px;
+  top: 265px;
+   width: 70px;
+   height: 37px;
+  }
+
+.princess-williams-63-09-27-compania-zone-3-molo-iloilo-city-south-fundidor-iloilo-city-iloilo-philippines {
+  color: #000000;
+   text-align: left;
+   font: 400 21px 'Inter', sans-serif;
+   position: absolute;
+   left: 47px;
+  top: 325px;
+   width: 340px;
+   height: 123px;
+  }
+
+.line-46 {
+  border-style: solid;
+   border-color: #000000;
+   border-width: 1px 0 0 0;
+   width: 402px;
+   height: 0px;
+   position: absolute;
+   left: 13px;
+  top: 249px;
+  }
+
+.line-47 {
+  border-style: solid;
+   border-color: #000000;
+   border-width: 1px 0 0 0;
+   width: 402px;
+   height: 0px;
+   position: absolute;
+   left: 14px;
+  top: 521px;
+  }
+
+.proceed-arrow-1 {
+  width: 40px;
+   height: 20px;
+   position: absolute;
+   left: 345px;
+  top: 184px;
+  }
+
+.edit2 {
+  color: #f00707;
+   text-align: center;
+   font: 700 18px 'Inter', sans-serif;
+   position: absolute;
+   left: 341px;
+  top: 547px;
+   width: 72px;
+   height: 21px;
+  }
+
+.janine-sarcia-63-09-77-barangay-bacab-cabatuan-iloilo-cabatuan-iloilo-city-iloilo-philippines {
+  color: #000000;
+   text-align: left;
+   font: 400 21px 'Inter', sans-serif;
+   position: absolute;
+   left: 47px;
+  top: 594px;
+   width: 340px;
+   height: 165px;
+  }
+

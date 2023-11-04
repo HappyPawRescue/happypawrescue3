@@ -1,0 +1,247 @@
+.frame, .frame * {
+     box-sizing: border-box;
+     }
+.frame {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .group-185 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group {
+    position: absolute;
+     left: 40px;
+    top: 78px;
+     overflow: visible;
+    }
+
+ .cart-4 {
+    width: 68.54px;
+     height: 61px;
+     position: absolute;
+     left: 40px;
+    top: 315px;
+     overflow: hidden;
+    }
+
+ .group-226 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-13 {
+    width: 64.25px;
+     height: 53.38px;
+     position: static;
+    }
+
+ .group2 {
+    position: absolute;
+     left: 40px;
+    top: 322.62px;
+     overflow: visible;
+    }
+
+ .shopping-cart {
+    color: #000000;
+     text-align: center;
+     font: 400 26px 'Markazi Text', sans-serif;
+     position: absolute;
+     left: 149.95px;
+    top: 327.71px;
+     width: 177.05px;
+     height: 39.4px;
+    }
+
+ .group-218 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-26 {
+    width: 196px;
+     height: 163px;
+     position: static;
+    }
+
+ .ellipse-4 {
+    background: linear-gradient(180deg, rgba(91, 104, 219, 1.00) 0%,rgba(91, 104, 219, 0.00) 100%);
+     border-radius: 50%;
+     width: 184.6px;
+     height: 163px;
+     position: absolute;
+     left: 117px;
+    top: 97px;
+    }
+
+ .happy-paw {
+    color: #fffcfc;
+     text-align: left;
+     font: 400 15px 'Paytone One', sans-serif;
+     position: absolute;
+     left: 202.79px;
+    top: 162.2px;
+     width: 98.66px;
+     height: 23.29px;
+    }
+
+ .rescue {
+    color: #60d1e9;
+     text-align: left;
+     font: 400 20px 'Paytone One', sans-serif;
+     position: absolute;
+     left: 206.01px;
+    top: 178.03px;
+     width: 106.99px;
+     height: 25.62px;
+    }
+
+ .rectangle-40 {
+    width: 89.25px;
+     height: 82.86px;
+     position: absolute;
+     left: 117px;
+    top: 136.8px;
+    }
+
+ .group-227 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-224 {
+    width: 290.25px;
+     height: 59.58px;
+     position: static;
+    }
+
+ .shipping-info {
+    color: #000000;
+     text-align: center;
+     font: 400 26px 'Markazi Text', sans-serif;
+     position: absolute;
+     left: 151px;
+    top: 418px;
+     width: 185.25px;
+     height: 53px;
+    }
+
+ .icon-marker {
+    position: absolute;
+     left: 46px;
+    top: 411.42px;
+     overflow: visible;
+    }
+
+ .group-228 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-223 {
+    width: 280.74px;
+     height: 62.58px;
+     position: static;
+    }
+
+ .group-221 {
+    width: 280.74px;
+     height: 62.58px;
+     position: static;
+    }
+
+ .icon-credit-card {
+    position: absolute;
+     left: 46px;
+    top: 499.42px;
+     overflow: visible;
+    }
+
+ .payment-method {
+    color: #000000;
+     text-align: center;
+     font: 400 26px 'Markazi Text', sans-serif;
+     position: absolute;
+     left: 129px;
+    top: 509px;
+     width: 197.74px;
+     height: 53px;
+    }
+
+ .arrow-right {
+    position: absolute;
+     left: 357.46px;
+    top: 509px;
+     transform: translate(-30.46px, 0px);
+     overflow: visible;
+    }
+
+ .line-39 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 14px;
+    top: 571px;
+    }
+
+ .group-225 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-217 {
+    width: 183.12px;
+     height: 39px;
+     position: static;
+    }
+
+ .cash-on-delivery {
+    color: #000000;
+     text-align: center;
+     font: 400 26px 'Markazi Text', sans-serif;
+     position: absolute;
+     left: 107.13px;
+    top: 603px;
+     width: 183.12px;
+     height: 39px;
+    }
+
+ .rectangle-63 {
+    background: #07922e;
+     width: 42.73px;
+     height: 22.65px;
+     position: absolute;
+     left: 29px;
+    top: 610.55px;
+    }
+
+ .cod {
+    color: #ffffff;
+     text-align: left;
+     font: 400 13px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 33.88px;
+    top: 613.06px;
+     width: 34.18px;
+     height: 17.61px;
+    }
+
+ .ellipse-2 {
+    background: #5bdbc4;
+     border-radius: 50%;
+     width: 26.86px;
+     height: 21.39px;
+     position: absolute;
+     left: 378.14px;
+    top: 611.81px;
+    }
+

@@ -1,0 +1,271 @@
+.account-and-security-profile, .account-and-security-profile * {
+    box-sizing: border-box;
+    }
+.account-and-security-profile {
+   background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+    width: 430px;
+    height: 932px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.edit-profile {
+   color: #5bdbc4;
+    text-align: center;
+    font: 700 24px 'Inter', sans-serif;
+    position: absolute;
+    left: 80px;
+   top: 62px;
+    width: 276px;
+    height: 43px;
+   }
+
+.group-185 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group {
+   position: absolute;
+    left: 16px;
+   top: 67px;
+    overflow: visible;
+   }
+
+.rectangle-68 {
+   background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+    width: 403px;
+    height: 553px;
+    position: absolute;
+    left: 13px;
+   top: 297px;
+   }
+
+.email {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -70px;
+   top: 585px;
+    width: 252px;
+    height: 21px;
+   }
+
+.phone {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 28px;
+   top: 674px;
+    width: 252px;
+    height: 21px;
+   }
+
+.password {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 28px;
+   top: 755px;
+    width: 252px;
+    height: 21px;
+   }
+
+.name {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -70px;
+   top: 335px;
+    width: 252px;
+    height: 21px;
+   }
+
+.gender {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 28px;
+   top: 411px;
+    width: 252px;
+    height: 21px;
+   }
+
+.line-23 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 14px;
+   top: 535px;
+   }
+
+.line-29 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 15px;
+   top: 372px;
+   }
+
+.line-31 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 14px;
+   top: 453px;
+   }
+
+.line-24 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 14px;
+   top: 625px;
+   }
+
+.line-25 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 13px;
+   top: 711px;
+   }
+
+.line-32 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 13px;
+   top: 794px;
+   }
+
+.janinesarcia {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 283px;
+   top: 328px;
+    width: 118px;
+    height: 35px;
+   }
+
+.edit {
+   color: #5bdbc4;
+    text-align: center;
+    font: 700 17px 'Inter', sans-serif;
+    position: absolute;
+    left: 331px;
+   top: 69px;
+    width: 118px;
+    height: 35px;
+   }
+
+.j-4-gmail-com {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 170px;
+   top: 586px;
+    width: 240px;
+    height: 35px;
+   }
+
+._09127768077 {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 218px;
+   top: 674px;
+    width: 223px;
+    height: 35px;
+   }
+
+.j {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 224px;
+   top: 756px;
+    width: 223px;
+    height: 35px;
+   }
+
+.november-03-1997 {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 200px;
+   top: 496px;
+    width: 223px;
+    height: 35px;
+   }
+
+.female {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 305px;
+   top: 404px;
+    width: 118px;
+    height: 35px;
+   }
+
+.rectangle-93 {
+   background: #8988d9;
+    border-radius: 2px;
+    width: 403px;
+    height: 169px;
+    position: absolute;
+    left: 13px;
+   top: 109px;
+   }
+
+.ellipse-29 {
+   border-radius: 50%;
+    width: 93px;
+    height: 86px;
+    position: absolute;
+    left: 168px;
+   top: 155px;
+   }
+
+.birthday {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 28px;
+   top: 492px;
+    width: 252px;
+    height: 21px;
+   }
+

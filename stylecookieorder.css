@@ -1,0 +1,448 @@
+.scottish-order, .scottish-order * {
+     box-sizing: border-box;
+     }
+.scottish-order {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .group-55 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .order-summary {
+    color: #5bdbc4;
+     text-align: left;
+     font: 400 24px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 145px;
+    top: 59px;
+    }
+
+ .arrow-left {
+    width: 45px;
+     height: 33px;
+     position: absolute;
+     left: 48px;
+    top: 57px;
+     overflow: hidden;
+    }
+
+ .group {
+    position: absolute;
+     left: 20.81px;
+    top: 60.22px;
+     overflow: visible;
+    }
+
+ .group-189 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .rectangle-32 {
+    background: #ffffff;
+     border-radius: 43px;
+     width: 405px;
+     height: 75px;
+     position: absolute;
+     left: 12px;
+    top: 114px;
+    }
+
+ .princess-williams-63-09-27-compania-zone-3-molo-iloilo-city-south-fundidor-iloilo-city-iloilo-phili {
+    color: #000000;
+     text-align: left;
+     font: 400 13px 'Marko One', sans-serif;
+     position: absolute;
+     left: 99px;
+    top: 119px;
+     width: 231px;
+     height: 55px;
+    }
+
+ .location {
+    position: absolute;
+     left: 36px;
+    top: 122px;
+     overflow: visible;
+    }
+
+ .arrow-right {
+    position: absolute;
+     left: 369px;
+    top: 122px;
+     overflow: visible;
+    }
+
+ .group-115 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-57 {
+    width: 356px;
+     height: 44px;
+     position: static;
+    }
+
+ .group-75 {
+    width: 356px;
+     height: 44px;
+     position: static;
+    }
+
+ .rectangle-31 {
+    background: #f00707;
+     border-radius: 48px;
+     width: 356px;
+     height: 44px;
+     position: absolute;
+     left: 42px;
+    top: 875px;
+    }
+
+ .place-order {
+    color: #ffffff;
+     text-align: left;
+     font: 400 20px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 177px;
+    top: 883px;
+    }
+
+ .group-139 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .arrow-right2 {
+    position: absolute;
+     left: 386px;
+    top: 536px;
+     overflow: visible;
+    }
+
+ .rectangle-9 {
+    background: linear-gradient(180deg, rgba(91, 104, 219, 1.00) 0%,rgba(91, 104, 219, 0.00) 100%);
+     border-radius: 26px;
+     width: 405px;
+     height: 678px;
+     position: absolute;
+     left: 17px;
+    top: 189px;
+    }
+
+ .total-1-item {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 36px;
+    top: 839px;
+    }
+
+ .ellipse-1 {
+    background: #5bdbc4;
+     border-radius: 50%;
+     width: 22px;
+     height: 17px;
+     position: absolute;
+     left: 373px;
+    top: 771px;
+    }
+
+ .subtotal-shipping-total {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 37px;
+    top: 627px;
+     width: 65px;
+     height: 87px;
+     display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ ._1-item-total-1-625-00 {
+    text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 247px;
+    top: 567px;
+    }
+
+._1-item-total-1-625-00-span {
+    
+            color: #000000;
+    
+            font: 400 14px 'Marmelad', sans-serif;
+    
+            
+            
+        }
+
+._1-item-total-1-625-00-span2 {
+    
+            color: #ffffff;
+    
+            font: 400 14px 'Marmelad', sans-serif;
+    
+            
+            
+        }
+
+ ._1-625-00 {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 330px;
+    top: 697px;
+    }
+
+ ._1-625-002 {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 331px;
+    top: 842px;
+    }
+
+ .optional {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 327px;
+    top: 539px;
+    }
+
+ .message {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 36px;
+    top: 536px;
+    }
+
+ .from-cabatuan-iloilo-estimated-delivery-2-3-hours {
+    color: #000000;
+     text-align: left;
+     font: 400 13px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 55px;
+    top: 491px;
+    }
+
+ .standard-shipping {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 36px;
+    top: 469px;
+    }
+
+ ._1-500-00 {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 332px;
+    top: 627px;
+    }
+
+ ._125-00 {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 342px;
+    top: 469px;
+    }
+
+ ._125-002 {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 342px;
+    top: 663px;
+    }
+
+ .box-arrow-in-right {
+    width: 15px;
+     height: 13px;
+     position: absolute;
+     left: 36px;
+    top: 491px;
+     overflow: hidden;
+    }
+
+ .group2 {
+    position: absolute;
+     left: 0.94px;
+    top: 1.62px;
+     overflow: visible;
+    }
+
+ .clock {
+    width: 12px;
+     height: 9px;
+     position: absolute;
+     left: 40px;
+    top: 511px;
+     overflow: hidden;
+    }
+
+ .group3 {
+    position: absolute;
+     left: 0px;
+    top: 0px;
+     overflow: visible;
+    }
+
+ .payment-method {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 37px;
+    top: 739px;
+    }
+
+ .rectangle-33 {
+    background: #07922e;
+     width: 31px;
+     height: 19px;
+     position: absolute;
+     left: 37px;
+    top: 771px;
+    }
+
+ .cod {
+    color: #ffffff;
+     text-align: left;
+     font: 400 13px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 40px;
+    top: 773px;
+    }
+
+ .cash-on-delivery {
+    color: #000000;
+     text-align: left;
+     font: 400 13px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 79px;
+    top: 773px;
+    }
+
+ .group-73 {
+    width: 337px;
+     height: 180px;
+     position: static;
+    }
+
+ ._1-500-002 {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 297px;
+    top: 364px;
+    }
+
+ .cookie {
+    color: #000000;
+     text-align: left;
+     font: 400 18px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 299px;
+    top: 328px;
+    }
+
+ .frame-24 {
+    display: flex;
+     flex-direction: column;
+     gap: 10px;
+     align-items: flex-start;
+     justify-content: flex-start;
+     position: absolute;
+     left: 48px;
+    top: 208px;
+    }
+
+ .group-72 {
+    flex-shrink: 0;
+     width: 195px;
+     height: 44px;
+     position: static;
+    }
+
+ .happy-paws-rescue {
+    color: #000000;
+     text-align: left;
+     font: 400 14px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 66px;
+    top: 8px;
+    }
+
+ .ellipse-6 {
+    background: linear-gradient(180deg, rgba(91, 104, 219, 1.00) 0%,rgba(91, 104, 219, 0.00) 100%);
+     border-radius: 50%;
+     width: 49px;
+     height: 44px;
+     position: absolute;
+     left: 0px;
+    top: 0px;
+    }
+
+ .happy-paw {
+    color: #fffcfc;
+     text-align: left;
+     font: 400 5px 'Paytone One', sans-serif;
+     position: absolute;
+     left: 17px;
+    top: 12px;
+     width: 32px;
+     height: 9px;
+    }
+
+ .rescue {
+    color: #60d1e9;
+     text-align: left;
+     font: 400 6px 'Paytone One', sans-serif;
+     position: absolute;
+     left: 19px;
+    top: 19px;
+     width: 26px;
+     height: 9px;
+    }
+
+ .rectangle-59 {
+    width: 18px;
+     height: 15px;
+     position: absolute;
+     left: 0px;
+    top: 13px;
+    }
+
+ .rectangle-18 {
+    border-radius: 23px;
+     width: 252px;
+     height: 196px;
+     position: absolute;
+     left: 31px;
+    top: 266px;
+    }
+

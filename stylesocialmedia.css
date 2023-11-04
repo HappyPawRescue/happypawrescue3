@@ -1,0 +1,208 @@
+.social-media-accounts, .social-media-accounts * {
+     box-sizing: border-box;
+     }
+.social-media-accounts {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .social-media-accounts2 {
+    color: #5bdbc4;
+     text-align: center;
+     font: 700 24px 'Inter', sans-serif;
+     position: absolute;
+     left: 93px;
+    top: 60px;
+     width: 277px;
+     height: 34px;
+    }
+
+ .group-185 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group {
+    position: absolute;
+     left: 16px;
+    top: 67px;
+     overflow: visible;
+    }
+
+ .rectangle-68 {
+    background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+     border-radius: 56px;
+     width: 403px;
+     height: 590px;
+     position: absolute;
+     left: 13px;
+    top: 104px;
+    }
+
+ .link-facebook-account {
+    color: #000000;
+     text-align: center;
+     font: 400 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 73px;
+    top: 202px;
+     width: 252px;
+     height: 21px;
+    }
+
+ .link-twitter-account {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 93px;
+    top: 474px;
+     width: 252px;
+     height: 21px;
+    }
+
+ .link-youtube-account {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 88px;
+    top: 592px;
+     width: 252px;
+     height: 21px;
+    }
+
+ .janine-sarcia {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 93px;
+    top: 323px;
+     width: 252px;
+     height: 21px;
+    }
+
+ .line-23 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 521px;
+    }
+
+ .line-29 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 247px;
+    }
+
+ .line-31 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 385px;
+    }
+
+ .line-24 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 16px;
+    top: 645px;
+    }
+
+ .link {
+    color: #000000;
+     text-align: center;
+     font: 700 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 321px;
+    top: 205px;
+     width: 118px;
+     height: 35px;
+    }
+
+ .link2 {
+    color: #000000;
+     text-align: center;
+     font: 700 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 325px;
+    top: 326px;
+     width: 118px;
+     height: 35px;
+    }
+
+ .link3 {
+    color: #000000;
+     text-align: center;
+     font: 700 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 321px;
+    top: 479px;
+     width: 118px;
+     height: 35px;
+    }
+
+ .link4 {
+    color: #000000;
+     text-align: center;
+     font: 700 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 321px;
+    top: 603px;
+     width: 118px;
+     height: 35px;
+    }
+
+ .rectangle-94 {
+    width: 50px;
+     height: 45px;
+     position: absolute;
+     left: 25px;
+    top: 188px;
+    }
+
+ .rectangle-96 {
+    width: 55px;
+     height: 48px;
+     position: absolute;
+     left: 25px;
+    top: 450px;
+    }
+
+ .rectangle-97 {
+    width: 48px;
+     height: 48px;
+     position: absolute;
+     left: 25px;
+    top: 310px;
+    }
+
+ .rectangle-98 {
+    width: 48px;
+     height: 45px;
+     position: absolute;
+     left: 25px;
+    top: 580px;
+    }
+

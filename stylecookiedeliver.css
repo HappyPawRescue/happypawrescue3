@@ -1,0 +1,501 @@
+.scottish-delivered, .scottish-delivered * {
+     box-sizing: border-box;
+     }
+.scottish-delivered {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .group-49 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .order {
+    color: #5bdbc4;
+     text-align: left;
+     font: 400 24px 'Inter', sans-serif;
+     position: absolute;
+     left: 186px;
+    top: 50px;
+     width: 65px;
+     height: 30px;
+    }
+
+ .arrow-left {
+    width: 45px;
+     height: 34px;
+     position: absolute;
+     left: 46px;
+    top: 72px;
+     overflow: hidden;
+    }
+
+ .group-48 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group {
+    position: absolute;
+     left: 52px;
+    top: 55px;
+     overflow: visible;
+    }
+
+ .group-116 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-51 {
+    width: 405px;
+     height: 487px;
+     position: static;
+    }
+
+ .rectangle-31 {
+    background: linear-gradient(180deg, rgba(91, 104, 219, 1.00) 0%,rgba(196, 196, 196, 0.00) 100%);
+     border-radius: 63px;
+     width: 393px;
+     height: 487px;
+     position: absolute;
+     left: 18px;
+    top: 105px;
+    }
+
+ .delivered-your-order-was-delivered-receipient-customer-august-19-2023-10-00-pm {
+    color: #000000;
+     text-align: left;
+     position: absolute;
+     left: 69px;
+    top: 128px;
+     width: 146px;
+     height: 66px;
+    }
+
+.delivered-your-order-was-delivered-receipient-customer-august-19-2023-10-00-pm-span {
+    
+            color: #000000;
+    
+            font: 400 16px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+.delivered-your-order-was-delivered-receipient-customer-august-19-2023-10-00-pm-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+ .out-for-delivery-your-order-will-be-deliver-soon-please-pay-attention-to-delivery-information-service-serrano-micheal-angelo-phone-number-639649113419-august-19-2023-9-25-pm {
+    color: #000000;
+     text-align: left;
+     position: absolute;
+     left: 63px;
+    top: 212px;
+     width: 297px;
+     height: 95px;
+    }
+
+.out-for-delivery-your-order-will-be-deliver-soon-please-pay-attention-to-delivery-information-service-serrano-micheal-angelo-phone-number-639649113419-august-19-2023-9-25-pm-span {
+    
+            color: #000000;
+    
+            font: 400 16px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+.out-for-delivery-your-order-will-be-deliver-soon-please-pay-attention-to-delivery-information-service-serrano-micheal-angelo-phone-number-639649113419-august-19-2023-9-25-pm-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+ .dispatched-your-order-was-ready-and-awaiting-rider-to-pickup-august-19-2023-7-30-am {
+    color: #000000;
+     text-align: left;
+     position: absolute;
+     left: 63px;
+    top: 400px;
+     width: 286px;
+     height: 50px;
+    }
+
+.dispatched-your-order-was-ready-and-awaiting-rider-to-pickup-august-19-2023-7-30-am-span {
+    
+            color: #000000;
+    
+            font: 400 16px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+.dispatched-your-order-was-ready-and-awaiting-rider-to-pickup-august-19-2023-7-30-am-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+ .order-place-your-order-was-place-august-19-2023-7-00-am {
+    color: #000000;
+     text-align: left;
+     position: absolute;
+     left: 63px;
+    top: 473px;
+     width: 140px;
+     height: 49px;
+    }
+
+.order-place-your-order-was-place-august-19-2023-7-00-am-span {
+    
+            color: #000000;
+    
+            font: 400 12px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+.order-place-your-order-was-place-august-19-2023-7-00-am-span2 {
+    
+            color: #000000;
+    
+            font: 400 16px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+.order-place-your-order-was-place-august-19-2023-7-00-am-span3 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+ .collected-your-order-was-picked-up-and-is-now-in-lapaz-public-market-august-19-2023-8-45-pm {
+    color: #000000;
+     text-align: left;
+     position: absolute;
+     left: 63px;
+    top: 319px;
+     width: 360px;
+     height: 44px;
+    }
+
+.collected-your-order-was-picked-up-and-is-now-in-lapaz-public-market-august-19-2023-8-45-pm-span {
+    
+            color: #000000;
+    
+            font: 400 16px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+.collected-your-order-was-picked-up-and-is-now-in-lapaz-public-market-august-19-2023-8-45-pm-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Inter', sans-serif;
+    
+            
+            
+        }
+
+ .vector2 {
+    position: absolute;
+     left: 36px;
+    top: 149px;
+     overflow: visible;
+    }
+
+ .vector3 {
+    position: absolute;
+     left: 31px;
+    top: 143px;
+     overflow: visible;
+    }
+
+ .vector4 {
+    position: absolute;
+     left: 34px;
+    top: 342px;
+     overflow: visible;
+    }
+
+ .vector5 {
+    position: absolute;
+     left: 31px;
+    top: 372px;
+     overflow: visible;
+    }
+
+ .vector6 {
+    position: absolute;
+     left: 29px;
+    top: 336px;
+     overflow: visible;
+    }
+
+ .vector7 {
+    position: absolute;
+     left: 29px;
+    top: 493px;
+     overflow: visible;
+    }
+
+ .vector8 {
+    position: absolute;
+     left: 34px;
+    top: 226px;
+     overflow: visible;
+    }
+
+ .vector9 {
+    position: absolute;
+     left: 34px;
+    top: 420px;
+     overflow: visible;
+    }
+
+ .vector10 {
+    position: absolute;
+     left: 34px;
+    top: 498px;
+     overflow: visible;
+    }
+
+ .vector11 {
+    position: absolute;
+     left: 29px;
+    top: 220px;
+     overflow: visible;
+    }
+
+ .vector12 {
+    position: absolute;
+     left: 29px;
+    top: 414.83px;
+     transform: translate(0.14px, -0.14px);
+     overflow: visible;
+    }
+
+ .line-3 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 58px;
+     height: 0px;
+     position: absolute;
+     left: 39px;
+    top: 435px;
+     transform-origin: 0 0;
+     transform: rotate(90deg) scale(1, 1);
+    }
+
+ .line-1 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 58px;
+     height: 0px;
+     position: absolute;
+     left: 39px;
+    top: 356px;
+     transform-origin: 0 0;
+     transform: rotate(90deg) scale(1, 1);
+    }
+
+ .line-2 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 59px;
+     height: 0px;
+     position: absolute;
+     left: 39px;
+    top: 161px;
+     transform-origin: 0 0;
+     transform: rotate(90deg) scale(1, 1);
+    }
+
+ .line-4 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 98px;
+     height: 0px;
+     position: absolute;
+     left: 39px;
+    top: 238px;
+     transform-origin: 0 0;
+     transform: rotate(90deg) scale(1, 1);
+    }
+
+ .group-50 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .bar {
+    position: absolute;
+     left: 349px;
+    top: 50px;
+     overflow: visible;
+    }
+
+ .group-150 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-23 {
+    width: 205px;
+     height: 44px;
+     position: static;
+    }
+
+ .rescue {
+    color: #60d1e9;
+     text-align: left;
+     font: 400 6px 'Paytone One', sans-serif;
+     position: absolute;
+     left: 44px;
+    top: 611px;
+     width: 26px;
+     height: 9px;
+    }
+
+ .happy-paw-rescue {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Markazi Text', sans-serif;
+     position: absolute;
+     left: 93px;
+    top: 590px;
+     width: 125px;
+     height: 17px;
+    }
+
+ .rectangle-41 {
+    width: 23px;
+     height: 24px;
+     position: absolute;
+     left: 13px;
+    top: 602px;
+    }
+
+ .ellipse-6 {
+    background: linear-gradient(180deg, rgba(91, 104, 219, 1.00) 0%,rgba(91, 104, 219, 0.00) 100%);
+     border-radius: 50%;
+     width: 49px;
+     height: 44px;
+     position: absolute;
+     left: 25px;
+    top: 592px;
+    }
+
+ .happy-paw {
+    color: #fffcfc;
+     text-align: left;
+     font: 400 5px 'Paytone One', sans-serif;
+     position: absolute;
+     left: 42px;
+    top: 604px;
+     width: 32px;
+     height: 9px;
+    }
+
+ .rectangle-59 {
+    width: 18px;
+     height: 15px;
+     position: absolute;
+     left: 25px;
+    top: 605px;
+    }
+
+ .rectangle-34 {
+    border-radius: 16px;
+     width: 252px;
+     height: 261px;
+     position: absolute;
+     left: 13px;
+    top: 643px;
+    }
+
+ .group-149 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .cookie {
+    color: #000000;
+     text-align: left;
+     font: 400 24px 'Markazi Text', sans-serif;
+     position: absolute;
+     left: 295px;
+    top: 741px;
+     width: 124px;
+     height: 25px;
+    }
+
+ ._1-500-00 {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 291px;
+    top: 774px;
+     width: 88px;
+     height: 25px;
+    }
+
+ .group-119 {
+    width: 95px;
+     height: 25.39px;
+     position: static;
+    }
+
+ .star-13 {
+    position: absolute;
+     left: 291px;
+    top: 807px;
+     overflow: visible;
+    }
+
+ ._4-6-likes {
+    color: #000000;
+     text-align: left;
+     font: 400 13px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 315.47px;
+    top: 811.86px;
+     width: 70.53px;
+     height: 20.53px;
+    }
+

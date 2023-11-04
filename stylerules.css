@@ -1,0 +1,65 @@
+.happy-paw-rescue-rules, .happy-paw-rescue-rules * {
+     box-sizing: border-box;
+     }
+.happy-paw-rescue-rules {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .rules {
+    color: #1bfbfb;
+     text-align: center;
+     font: 700 24px 'Inter', sans-serif;
+     position: absolute;
+     left: 51px;
+    top: 63px;
+     width: 277px;
+     height: 50px;
+    }
+
+ .group-185 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group {
+    position: absolute;
+     left: 16px;
+    top: 67px;
+     overflow: visible;
+    }
+
+ .rectangle-68 {
+    background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+     border-radius: 66px;
+     width: 403px;
+     height: 712px;
+     position: absolute;
+     left: 13px;
+    top: 129px;
+    }
+
+ .happy-paw-rescue-rules2 {
+    color: #000000;
+     text-align: center;
+     font: 700 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 86px;
+    top: 169px;
+     width: 257px;
+     height: 21px;
+    }
+
+    .happy-paw-rescue-rules3 {
+        color: #000000;
+         text-align: center;
+         font-size: 20;
+         position: absolute;
+         left: 86px;
+        top: 220px;
+         width: 257px;
+         height: 25px;
+        }

@@ -1,0 +1,261 @@
+.your-address, .your-address * {
+     box-sizing: border-box;
+     }
+.your-address {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .add-new-address {
+    color: #5bdbc4;
+     text-align: center;
+     font: 700 24px 'Inter', sans-serif;
+     position: absolute;
+     left: 93px;
+    top: 66px;
+     width: 243px;
+     height: 27px;
+    }
+
+ .group-187 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group {
+    position: absolute;
+     left: 17px;
+    top: 70px;
+     overflow: visible;
+    }
+
+ .rectangle-70 {
+    background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+     border-radius: 64px;
+     width: 403px;
+     height: 760px;
+     position: absolute;
+     left: 13px;
+    top: 122px;
+    }
+
+ .rectangle-99 {
+    background: #f00707;
+     border-radius: 54px;
+     width: 388px;
+     height: 48px;
+     position: absolute;
+     left: 20px;
+    top: 803px;
+    }
+
+ .save {
+    color: #ffffff;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 195px;
+    top: 824px;
+    }
+
+ .settings {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 31px;
+    top: 604px;
+    }
+
+ .enter-other-details-optional {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 28px;
+    top: 538px;
+    }
+
+ .enter-address-information-to-get-suggestions {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 28px;
+    top: 491px;
+    }
+
+ .contact-information {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 17px;
+    top: 170px;
+     width: 144px;
+     height: 18px;
+    }
+
+ .address-information {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 27px;
+    top: 322px;
+    }
+
+ .first-and-last-name {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 37px;
+    top: 222px;
+    }
+
+ .ph-63 {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 40px;
+    top: 269px;
+    }
+
+ .philippines {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 28px;
+    top: 392px;
+    }
+
+ ._9123457686 {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 95px;
+    top: 270px;
+    }
+
+ .line-38 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 253px;
+    }
+
+ .line-40 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 301px;
+    }
+
+ .line-41 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 378px;
+    }
+
+ .line-42 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 424px;
+    }
+
+ .line-43 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 475px;
+    }
+
+ .line-44 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 525px;
+    }
+
+ .line-45 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 402px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 576px;
+    }
+
+ .select-region {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 27px;
+    top: 438px;
+    }
+
+ .set-as-default {
+    color: #000000;
+     text-align: left;
+     font: 700 18px 'Inter', sans-serif;
+     position: absolute;
+     left: 32px;
+    top: 669px;
+    }
+
+ .proceed-arrow-2 {
+    width: 20px;
+     height: 19px;
+     position: absolute;
+     left: 387.45px;
+    top: 390.48px;
+     transform-origin: 0 0;
+     transform: rotate(89.879deg) scale(1, 1);
+    }
+
+ .proceed-arrow-3 {
+    width: 20px;
+     height: 19px;
+     position: absolute;
+     left: 387px;
+    top: 442px;
+     transform-origin: 0 0;
+     transform: rotate(89.879deg) scale(1, 1);
+    }
+

@@ -1,0 +1,513 @@
+.bull-dog-description, .bull-dog-description * {
+     box-sizing: border-box;
+     }
+.bull-dog-description {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .rectangle-110 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%,rgba(91, 104, 219, 1.00) 100%);
+     border-radius: 23px;
+     width: 393px;
+     height: 697px;
+     position: absolute;
+     left: 13px;
+    top: 140px;
+    }
+
+ .rectangle-13 {
+    border-radius: 44px;
+     width: 393px;
+     height: 345px;
+     position: absolute;
+     left: 13px;
+    top: 132px;
+    }
+
+ .group-117 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-47 {
+    width: 244.14px;
+     height: 59.23px;
+     position: static;
+    }
+
+ .rectangle-28 {
+    background: #ffffff;
+     border-radius: 86.09px;
+     width: 243.99px;
+     height: 58.59px;
+     position: absolute;
+     left: 107.16px;
+    top: 51px;
+     transform-origin: 0 0;
+     transform: rotate(0.152deg) scale(1, 1);
+    }
+
+ .search {
+    position: absolute;
+     left: 133px;
+    top: 63px;
+     overflow: visible;
+    }
+
+ .aspin {
+    color: #000000;
+     text-align: left;
+     font: 400 24px 'Metrophobic', sans-serif;
+     position: absolute;
+     left: 182px;
+    top: 63px;
+    }
+
+ .arrow-left {
+    width: 48px;
+     height: 48px;
+     position: absolute;
+     left: 38px;
+    top: 54px;
+     overflow: hidden;
+    }
+
+ .group {
+    position: absolute;
+     left: 3px;
+    top: 10.5px;
+     overflow: visible;
+    }
+
+ .cart-4 {
+    width: 48px;
+     height: 48px;
+     position: absolute;
+     left: 361px;
+    top: 54px;
+     overflow: hidden;
+    }
+
+ .group-13 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group2 {
+    position: absolute;
+     left: 0px;
+    top: 6px;
+     overflow: visible;
+    }
+
+ .rectangle-102 {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1.00) 0%,rgba(217, 217, 217, 0.00) 100%);
+     border-radius: 16px;
+     width: 78px;
+     height: 42px;
+     position: absolute;
+     left: 30px;
+    top: 525px;
+    }
+
+ .rectangle-107 {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1.00) 0%,rgba(217, 217, 217, 0.00) 100%);
+     border-radius: 16px;
+     width: 78px;
+     height: 42px;
+     position: absolute;
+     left: 127px;
+    top: 525px;
+    }
+
+ .rectangle-108 {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1.00) 0%,rgba(217, 217, 217, 0.00) 100%);
+     border-radius: 16px;
+     width: 78px;
+     height: 42px;
+     position: absolute;
+     left: 224px;
+    top: 525px;
+    }
+
+ .rectangle-106 {
+    background: rgba(217, 217, 217, 0.94);
+     border-radius: 16px;
+     width: 352px;
+     height: 70px;
+     position: absolute;
+     left: 37px;
+    top: 445px;
+    }
+
+ .fully-vaccinated {
+    color: #000000;
+     text-align: left;
+     font: 400 13px 'Marko One', sans-serif;
+     position: absolute;
+     left: 274px;
+    top: 472px;
+    }
+
+ .brown {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Marko One', sans-serif;
+     position: absolute;
+     left: 236px;
+    top: 536px;
+     width: 53px;
+     height: 25px;
+    }
+
+ .male {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Marko One', sans-serif;
+     position: absolute;
+     left: 47px;
+    top: 536px;
+     width: 59px;
+     height: 20px;
+    }
+
+ .bruno-45-pounds-15-inches {
+    color: #000000;
+     text-align: left;
+     position: absolute;
+     left: 45px;
+    top: 453px;
+     width: 88px;
+    }
+
+.bruno-45-pounds-15-inches-span {
+    
+            color: #000000;
+    
+            font: 400 15px 'Marko One', sans-serif;
+    
+            
+            
+        }
+
+.bruno-45-pounds-15-inches-span2 {
+    
+            color: #000000;
+    
+            font: 400 13px 'Marko One', sans-serif;
+    
+            
+            
+        }
+
+ ._4-years {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Marko One', sans-serif;
+     position: absolute;
+     left: 133px;
+    top: 536px;
+     width: 78px;
+     height: 21px;
+    }
+
+ .rectangle-111 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%,rgba(91, 104, 219, 1.00) 100%);
+     border-radius: 23px;
+     width: 384px;
+     height: 697px;
+     position: absolute;
+     left: 14px;
+    top: 151px;
+    }
+
+ .rectangle-112 {
+    border-radius: 44px;
+     width: 393px;
+     height: 345px;
+     position: absolute;
+     left: 13px;
+    top: 132px;
+    }
+
+ .group-177 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .cash-on-delivery-available {
+    color: #000000;
+     text-align: left;
+     font: 400 13px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 222px;
+    top: 625px;
+    }
+
+ ._800-00 {
+    color: #f00707;
+     text-align: left;
+     font: 400 20px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 39px;
+    top: 603px;
+    }
+
+ .payment-service {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Marko One', sans-serif;
+     position: absolute;
+     left: 214px;
+    top: 579px;
+    }
+
+ .rectangle-20 {
+    background: #07922e;
+     width: 31px;
+     height: 19px;
+     position: absolute;
+     left: 183px;
+    top: 623px;
+    }
+
+ .cod {
+    color: #ffffff;
+     text-align: left;
+     font: 400 13px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 188px;
+    top: 640px;
+     width: 31px;
+     height: 15px;
+     transform-origin: 0 0;
+     transform: rotate(0deg) scale(1, -1);
+    }
+
+ .rectangle-113 {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1.00) 0%,rgba(217, 217, 217, 0.00) 100%);
+     border-radius: 16px;
+     width: 78px;
+     height: 42px;
+     position: absolute;
+     left: 30px;
+    top: 525px;
+    }
+
+ .rectangle-114 {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1.00) 0%,rgba(217, 217, 217, 0.00) 100%);
+     border-radius: 16px;
+     width: 78px;
+     height: 42px;
+     position: absolute;
+     left: 127px;
+    top: 525px;
+    }
+
+ .rectangle-115 {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1.00) 0%,rgba(217, 217, 217, 0.00) 100%);
+     border-radius: 16px;
+     width: 78px;
+     height: 42px;
+     position: absolute;
+     left: 224px;
+    top: 525px;
+    }
+
+ .rectangle-118 {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1.00) 0%,rgba(217, 217, 217, 0.00) 100%);
+     border-radius: 16px;
+     width: 78px;
+     height: 42px;
+     position: absolute;
+     left: 315px;
+    top: 525px;
+    }
+
+ .rectangle-117 {
+    background: rgba(217, 217, 217, 0.94);
+     border-radius: 16px;
+     width: 352px;
+     height: 70px;
+     position: absolute;
+     left: 37px;
+    top: 445px;
+    }
+
+ .description {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Marko One', sans-serif;
+     position: absolute;
+     left: 31px;
+    top: 657px;
+    }
+
+ .bruno-18-kilogram-63-cm {
+    color: #000000;
+     text-align: left;
+     position: absolute;
+     left: 45px;
+    top: 453px;
+     width: 88px;
+    }
+
+.bruno-18-kilogram-63-cm-span {
+    
+            color: #000000;
+    
+            font: 400 15px 'Marko One', sans-serif;
+    
+            
+            
+        }
+
+.bruno-18-kilogram-63-cm-span2 {
+    
+            color: #000000;
+    
+            font: 400 13px 'Marko One', sans-serif;
+    
+            
+            
+        }
+
+ .group-60 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-58 {
+    width: 110.9px;
+     height: 44px;
+     position: static;
+    }
+
+ .rectangle-31 {
+    background: #f00707;
+     border-radius: 48px;
+     width: 104px;
+     height: 44px;
+     position: absolute;
+     left: 295.01px;
+    top: 856px;
+    }
+
+ .buy-now {
+    color: #ffffff;
+     text-align: left;
+     font: 400 16px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 317.01px;
+    top: 865px;
+     width: 88.9px;
+    }
+
+ .group-63 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-59 {
+    width: 104px;
+     height: 44px;
+     position: static;
+    }
+
+ .rectangle-312 {
+    background: #ffffff;
+     border-radius: 48px;
+     width: 104px;
+     height: 44px;
+     position: absolute;
+     left: 181.01px;
+    top: 856px;
+    }
+
+ .add-to-cart {
+    color: #f00707;
+     text-align: left;
+     font: 400 15px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 194.01px;
+    top: 869px;
+     width: 81.82px;
+    }
+
+ .group-62 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .commenting {
+    position: absolute;
+     left: 94.88px;
+    top: 853px;
+     overflow: visible;
+    }
+
+ .message {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 81.01px;
+    top: 892.13px;
+     width: 87px;
+     height: 21.87px;
+    }
+
+ .commenting2 {
+    position: absolute;
+     left: 94.88px;
+    top: 853px;
+     overflow: visible;
+    }
+
+ .group-193 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .vector6 {
+    position: absolute;
+     left: 21px;
+    top: 847px;
+     overflow: visible;
+    }
+
+ .shop {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 25.01px;
+    top: 894.71px;
+     width: 39px;
+     height: 19.29px;
+    }
+
+ .aspin2 {
+    color: #000000;
+     text-align: left;
+     font: 400 20px 'Marmelad', sans-serif;
+     position: absolute;
+     left: 39px;
+    top: 575px;
+    }
+
+ .bruno-is-an-aspin-male-dog-he-is-4-years-old-with-a-brown-and-white-color-he-is-fully-vaccinated-with-3-in-1-that-is-worth-350-pesos-and-5-in-1-vaccine-worth-450-pesos-bruno-weight-is-18-kilogram-and-height-is-63-centimeter-he-is-a-sweet-kind-and-lovable-aspin-that-love-affection {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Marcellus', sans-serif;
+     position: absolute;
+     left: 31px;
+    top: 693px;
+     width: 368px;
+     height: 144px;
+    }
+

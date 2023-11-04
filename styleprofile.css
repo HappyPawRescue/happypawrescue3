@@ -1,0 +1,365 @@
+.profile, .profile * {
+    box-sizing: border-box;
+    }
+.profile {
+   background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+    width: 430px;
+    height: 932px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.rectangle-67 {
+   background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+    border-radius: 66px;
+    width: 403px;
+    height: 461px;
+    position: absolute;
+    left: 13px;
+   top: 84px;
+   }
+
+.ellipse-31 {
+   background: linear-gradient(180deg, rgba(156, 53, 192, 0.00) 0%,rgba(32, 80, 253, 0.81) 100%);
+    border-radius: 50%;
+    width: 71px;
+    height: 62px;
+    position: absolute;
+    left: 126px;
+   top: 547px;
+   }
+
+.group-64 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group-19 {
+   width: 48px;
+    height: 67px;
+    position: static;
+   }
+
+.shopping-bag {
+   position: absolute;
+    left: 134px;
+   top: 842px;
+    overflow: visible;
+   }
+
+.shop {
+   color: #000000;
+    text-align: left;
+    font: 400 16px 'Inter', sans-serif;
+    position: absolute;
+    left: 130px;
+   top: 890px;
+   }
+
+.group-41 {
+   position: absolute;
+    inset: 0;
+   }
+
+.home {
+   position: absolute;
+    left: 29px;
+   top: 841.2px;
+    overflow: visible;
+   }
+
+.home2 {
+   color: #000000;
+    text-align: left;
+    font: 400 16px 'Inter', sans-serif;
+    position: absolute;
+    left: 23px;
+   top: 889.77px;
+    width: 45px;
+    height: 19.23px;
+   }
+
+.group-66 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group-65 {
+   width: 49px;
+    height: 67px;
+    position: static;
+   }
+
+.group-21 {
+   width: 49px;
+    height: 19px;
+    position: static;
+   }
+
+.profile2 {
+   color: #000000;
+    text-align: left;
+    font: 400 16px 'Inter', sans-serif;
+    position: absolute;
+    left: 357px;
+   top: 890px;
+   }
+
+.user-circle-o {
+   position: absolute;
+    left: 358px;
+   top: 842px;
+    overflow: visible;
+   }
+
+.group-44 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group-20 {
+   width: 88px;
+    height: 72px;
+    position: static;
+   }
+
+.bxs-bell {
+   position: absolute;
+    left: 238px;
+   top: 842px;
+    overflow: visible;
+   }
+
+.notification {
+   color: #000000;
+    text-align: left;
+    font: 400 16px 'Inter', sans-serif;
+    position: absolute;
+    left: 224px;
+   top: 895px;
+   }
+
+.ellipse-22 {
+   border-radius: 50%;
+    width: 83px;
+    height: 76px;
+    position: absolute;
+    left: 42px;
+   top: 120px;
+   }
+
+.profile3 {
+   color: #5bdbc4;
+    text-align: left;
+    font: 700 24px 'Inter', sans-serif;
+    position: absolute;
+    left: 182px;
+   top: 48px;
+    width: 180px;
+    height: 36px;
+   }
+
+.janine-sarcia {
+   color: #000000;
+    text-align: left;
+    font: 700 24px 'Inter', sans-serif;
+    position: absolute;
+    left: 148px;
+   top: 143px;
+    width: 180px;
+    height: 36px;
+   }
+
+.information-name-janine-sarcia-age-25-years-old-address-bacan-cabatuan-iloilo-phone-number-09127768077-email-janinesarcia-2-gmail-com {
+   color: #000000;
+    text-align: left;
+    font: 700 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 36px;
+   top: 205px;
+    width: 341px;
+    height: 300px;
+   }
+
+.to-pay {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 23px;
+   top: 619px;
+    width: 79px;
+    height: 35px;
+   }
+
+.to-deliver {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 113px;
+   top: 620px;
+    width: 98px;
+    height: 35px;
+   }
+
+.to-receive {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 223px;
+   top: 618px;
+    width: 114px;
+    height: 35px;
+   }
+
+.to-rate {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 344px;
+   top: 617px;
+    width: 96px;
+    height: 35px;
+   }
+
+.accout-settings {
+   color: #000000;
+    text-align: left;
+    font: 700 16px 'Inter', sans-serif;
+    position: absolute;
+    left: 94px;
+   top: 734px;
+    width: 131px;
+    height: 19px;
+   }
+
+.help-center {
+   color: #000000;
+    text-align: left;
+    font: 700 16px 'Inter', sans-serif;
+    position: absolute;
+    left: 321px;
+   top: 731px;
+    width: 100px;
+    height: 22px;
+   }
+
+.ellipse-16 {
+   background: linear-gradient(180deg, rgba(156, 53, 192, 0.00) 0%,rgba(32, 80, 253, 0.81) 100%);
+    border-radius: 50%;
+    width: 71px;
+    height: 62px;
+    position: absolute;
+    left: 17px;
+   top: 545px;
+   }
+
+.ellipse-23 {
+   background: linear-gradient(180deg, rgba(156, 53, 192, 0.00) 0%,rgba(32, 80, 253, 0.81) 100%);
+    border-radius: 50%;
+    width: 71px;
+    height: 62px;
+    position: absolute;
+    left: 337px;
+   top: 551px;
+   }
+
+.ellipse-24 {
+   background: linear-gradient(180deg, rgba(156, 53, 192, 0.00) 0%,rgba(32, 80, 253, 0.81) 100%);
+    border-radius: 50%;
+    width: 71px;
+    height: 62px;
+    position: absolute;
+    left: 225px;
+   top: 551px;
+   }
+
+.ellipse-18 {
+   border-radius: 50%;
+    width: 46px;
+    height: 46px;
+    position: absolute;
+    left: 241px;
+   top: 563px;
+   }
+
+.group-215 {
+   position: absolute;
+    inset: 0;
+   }
+
+.ellipse-28 {
+   background: linear-gradient(180deg, rgba(156, 53, 192, 0.00) 0%,rgba(32, 80, 253, 0.81) 100%);
+    border-radius: 50%;
+    width: 71px;
+    height: 62px;
+    position: absolute;
+    left: 17px;
+   top: 709px;
+   }
+
+.ellipse-14 {
+   border-radius: 50%;
+    width: 53px;
+    height: 42px;
+    position: absolute;
+    left: 32px;
+   top: 730px;
+   }
+
+.group-89 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group {
+   position: absolute;
+    left: 34px;
+   top: 52px;
+    overflow: visible;
+   }
+
+.ellipse-29 {
+   background: linear-gradient(180deg, rgba(156, 53, 192, 0.00) 0%,rgba(32, 80, 253, 0.81) 100%);
+    border-radius: 50%;
+    width: 71px;
+    height: 62px;
+    position: absolute;
+    left: 238px;
+   top: 708px;
+   }
+
+.icon-question-mark {
+   position: absolute;
+    left: 258px;
+   top: 725px;
+    overflow: visible;
+   }
+
+.icon-credit-card {
+   position: absolute;
+    left: 41px;
+   top: 571px;
+    overflow: visible;
+   }
+
+.icon-star {
+   position: absolute;
+    left: 360px;
+   top: 566px;
+    overflow: visible;
+   }
+
+.ellipse-30 {
+   border-radius: 50%;
+    width: 52px;
+    height: 56px;
+    position: absolute;
+    left: 140px;
+   top: 564px;
+   }
+
+

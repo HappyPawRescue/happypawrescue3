@@ -1,0 +1,388 @@
+.to-rate-1, .to-rate-1 * {
+     box-sizing: border-box;
+     }
+.to-rate-1 {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .group-64 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-19 {
+    width: 48px;
+     height: 67px;
+     position: static;
+    }
+
+ .shopping-bag {
+    position: absolute;
+     left: 142px;
+    top: 842px;
+     overflow: visible;
+    }
+
+ .shop {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 134px;
+    top: 890px;
+    }
+
+ .rectangle-67 {
+    background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+     border-radius: 45px;
+     width: 403px;
+     height: 493px;
+     position: absolute;
+     left: 13px;
+    top: 84px;
+    }
+
+ .group-41 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .home {
+    position: absolute;
+     left: 29px;
+    top: 841.2px;
+     overflow: visible;
+    }
+
+ .home2 {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 23px;
+    top: 889.77px;
+     width: 45px;
+     height: 19.23px;
+    }
+
+ .group-66 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-65 {
+    width: 49px;
+     height: 67px;
+     position: static;
+    }
+
+ .group-21 {
+    width: 49px;
+     height: 19px;
+     position: static;
+    }
+
+ .profile {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 357px;
+    top: 890px;
+    }
+
+ .user-circle-o {
+    position: absolute;
+     left: 358px;
+    top: 842px;
+     overflow: visible;
+    }
+
+ .group-44 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-20 {
+    width: 88px;
+     height: 72px;
+     position: static;
+    }
+
+ .bxs-bell {
+    position: absolute;
+     left: 238px;
+    top: 842px;
+     overflow: visible;
+    }
+
+ .notification {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 224px;
+    top: 895px;
+    }
+
+ .my-rating {
+    color: #5bdbc4;
+     text-align: left;
+     font: 700 24px 'Inter', sans-serif;
+     position: absolute;
+     left: 135px;
+    top: 48px;
+     width: 180px;
+     height: 36px;
+    }
+
+ .group-89 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group {
+    position: absolute;
+     left: 34px;
+    top: 52px;
+     overflow: visible;
+    }
+
+ .rectangle-72 {
+    background: #dac1db;
+     width: 405px;
+     height: 8px;
+     position: absolute;
+     left: 11px;
+    top: 182px;
+    }
+
+ .to-rate {
+    color: #000000;
+     text-align: left;
+     font: 700 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 335px;
+    top: 146px;
+     width: 70px;
+     height: 19px;
+    }
+
+ .to-receive {
+    color: #000000;
+     text-align: left;
+     font: 700 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 211px;
+    top: 146px;
+     width: 86px;
+     height: 19px;
+    }
+
+ .to-deliver {
+    color: #000000;
+     text-align: left;
+     font: 700 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 119px;
+    top: 146px;
+     width: 79px;
+     height: 19px;
+    }
+
+ .to-pay {
+    color: #000000;
+     text-align: left;
+     font: 700 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 34px;
+    top: 146px;
+     width: 70px;
+     height: 19px;
+    }
+
+ .rectangle-722 {
+    background: #1bfbfb;
+     width: 80px;
+     height: 4px;
+     position: absolute;
+     left: 327px;
+    top: 178px;
+    }
+
+ .rectangle-723 {
+    border-radius: 14px;
+     width: 155px;
+     height: 140px;
+     position: absolute;
+     left: 34px;
+    top: 230px;
+    }
+
+ .bell {
+    color: #000000;
+     text-align: center;
+     font: 700 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 176px;
+    top: 269px;
+     width: 134px;
+     height: 14px;
+    }
+
+ .completed {
+    color: #f00707;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 324px;
+    top: 201px;
+     width: 109px;
+     height: 17px;
+    }
+
+ .p-1-625-00-1-item {
+    color: #000000;
+     text-align: center;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 210px;
+    top: 310px;
+     width: 91px;
+     height: 21px;
+    }
+
+ .line-14 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 404px;
+     height: 0px;
+     position: absolute;
+     left: 13px;
+    top: 479px;
+     transform-origin: 0 0;
+     transform: rotate(0.143deg) scale(1, 1);
+    }
+
+ ._1-item-total-payment-p-1-625 {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 196px;
+    top: 619px;
+     width: 227px;
+     height: 25px;
+    }
+
+ .line-142 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 404px;
+     height: 0px;
+     position: absolute;
+     left: 12px;
+    top: 680px;
+     transform-origin: 0 0;
+     transform: rotate(0.143deg) scale(1, 1);
+    }
+
+ .group-245 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .rectangle-724 {
+    background: #f00707;
+     border-radius: 16px;
+     width: 175px;
+     height: 57px;
+     position: absolute;
+     left: 127px;
+    top: 737px;
+    }
+
+ .rate {
+    color: #ffffff;
+     text-align: left;
+     font: 700 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 196px;
+    top: 760px;
+     width: 88px;
+     height: 24px;
+    }
+
+ .rate-the-pet-by-09-25-2023-rate-now {
+    color: #000000;
+     text-align: left;
+     font: 400 16px 'Inter', sans-serif;
+     position: absolute;
+     left: 22px;
+    top: 526px;
+     width: 235px;
+     height: 37px;
+    }
+
+ .group-244 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .product-quality {
+    color: #000000;
+     text-align: left;
+     font: 400 15px 'Inter', sans-serif;
+     position: absolute;
+     left: 24px;
+    top: 406px;
+     width: 184px;
+     height: 37px;
+    }
+
+ .rectangle-81 {
+    width: 53px;
+     height: 42px;
+     position: absolute;
+     left: 141px;
+    top: 397px;
+    }
+
+ .rectangle-82 {
+    width: 53px;
+     height: 42px;
+     position: absolute;
+     left: 186px;
+    top: 401px;
+    }
+
+ .rectangle-83 {
+    width: 53px;
+     height: 42px;
+     position: absolute;
+     left: 230px;
+    top: 401px;
+    }
+
+ .rectangle-84 {
+    width: 53px;
+     height: 42px;
+     position: absolute;
+     left: 275px;
+    top: 401px;
+    }
+
+ .rectangle-85 {
+    width: 53px;
+     height: 42px;
+     position: absolute;
+     left: 319px;
+    top: 401px;
+    }
+

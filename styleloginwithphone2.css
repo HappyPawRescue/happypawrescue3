@@ -1,0 +1,245 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.forgot-password-1, .forgot-password-1 * {
+     box-sizing: border-box;
+     }
+.forgot-password-1 {
+    background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+     width: 430px;
+     height: 932px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .rectangle-71 {
+    background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+     border-radius: 66px;
+     width: 403px;
+     height: 574px;
+     position: absolute;
+     left: 17px;
+    top: 93px;
+    }
+
+ .group-167 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .enter-verification-code {
+    color: #000000;
+     text-align: center;
+     font-size: 35px;
+     font-family: Arial;
+     font-weight: bold;
+     position: absolute;
+     left: 81px;
+    top: 131px;
+     width: 291px;
+     height: 47px;
+    }
+
+ .your-verification-code-is-sent-in-via-sms-to-63-9127768077 {
+    color: #000000;
+     text-align: center;
+     font-size: 30px;
+     font-family: Arial;
+     position: absolute;
+     left: 45px;
+    top: 253px;
+     width: 364px;
+     height: 59px;
+    }
+
+ .please-wait-60-seconds-to-resend {
+    text-align: left;
+     font-size: 23px;
+     font-family: Arial;
+     position: absolute;
+     left: 37px;
+    top: 505px;
+     width: 364px;
+     height: 59px;
+    }
+
+.please-wait-60-seconds-to-resend-span {
+    
+            color: #000000;
+    
+            font-size: 23px;
+            font-family: Arial;
+         }
+
+.please-wait-60-seconds-to-resend-span2 {
+    
+            color: #f00707;
+    
+            font-size: 23px;
+            font-family: Arial;
+            
+            
+        }
+
+.please-wait-60-seconds-to-resend-span3 {
+    
+            color: #000000;
+            font-size: 23px;
+            font-family: Arial;
+    
+            
+            
+        }
+
+ .line-17 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 50px;
+     height: 0px;
+     position: absolute;
+     left: 20px;
+    top: 456px;
+    }
+
+ .line-18 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 50px;
+     height: 0px;
+     position: absolute;
+     left: 81px;
+    top: 456px;
+    }
+
+ .line-19 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 50px;
+     height: 0px;
+     position: absolute;
+     left: 148px;
+    top: 456px;
+    }
+
+ .line-20 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 50px;
+     height: 0px;
+     position: absolute;
+     left: 219px;
+    top: 456px;
+    }
+
+ .line-21 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 50px;
+     height: 0px;
+     position: absolute;
+     left: 289px;
+    top: 456px;
+    }
+
+ .line-22 {
+    border-style: solid;
+     border-color: #000000;
+     border-width: 1px 0 0 0;
+     width: 50px;
+     height: 0px;
+     position: absolute;
+     left: 351px;
+    top: 456px;
+    }
+
+ .sign-up {
+    color: #1bfbfb;
+     text-align: center;
+     font: 400 32px 'Markazi Text', sans-serif;
+     position: absolute;
+     left: 146px;
+    top: 47px;
+     width: 137px;
+     height: 31px;
+    }
+
+ .group-169 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group {
+    position: absolute;
+     left: 17px;
+    top: 55px;
+     overflow: visible;
+    }
+
+ .group-161 {
+    width: 335px;
+     height: 56px;
+     position: static;
+    }
+
+ .rectangle-28 {
+    background: #f00707;
+     border-radius: 110px;
+     width: 335px;
+     height: 56px;
+     position: absolute;
+     left: 47px;
+    top: 685px;
+    }
+
+ .ok {
+    color: #ffffff;
+     text-align: center;
+     font-size: 30px;
+     font-family: Arial;
+     position: absolute;
+     left: 75px;
+    top: 694px;
+     width: 291px;
+     height: 47px;
+    }
+
+ .group-170 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-1612 {
+    width: 101px;
+     height: 43px;
+     position: static;
+    }
+
+ .rectangle-282 {
+    background: #ffffff;
+     border-radius: 110px;
+     width: 101px;
+     height: 43px;
+     position: absolute;
+     left: 30px;
+    top: 549px;
+    }
+
+ .resend {
+    color: #000000;
+     text-align: center;
+     font-size: 25px;
+     font-family: Arial;
+     position: absolute;
+     left: 40px;
+    top: 555px;
+     width: 83px;
+     height: 32px;
+    }
+

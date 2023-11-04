@@ -1,0 +1,217 @@
+.setting-account-security, .setting-account-security * {
+    box-sizing: border-box;
+    }
+.setting-account-security {
+   background: linear-gradient(180deg, rgba(254, 10, 229, 0.00) 0%,rgba(27, 251, 251, 1.00) 100%);
+    width: 430px;
+    height: 932px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.group-185 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group {
+   position: absolute;
+    left: 16px;
+   top: 67px;
+    overflow: visible;
+   }
+
+.rectangle-68 {
+   background: linear-gradient(180deg, rgba(127, 131, 217, 1.00) 0%,rgba(127, 131, 217, 0.00) 100%);
+    border-radius: 66px;
+    width: 403px;
+    height: 723px;
+    position: absolute;
+    left: 13px;
+   top: 129px;
+   }
+
+.my-profile {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -43px;
+   top: 256px;
+    width: 252px;
+    height: 21px;
+   }
+
+.edit {
+   color: #f00707;
+    text-align: center;
+    font: 700 24px 'Inter', sans-serif;
+    position: absolute;
+    left: 248px;
+   top: 159px;
+    width: 252px;
+    height: 21px;
+   }
+
+.email {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -64px;
+   top: 572px;
+    width: 252px;
+    height: 21px;
+   }
+
+.change-password {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -4px;
+   top: 705px;
+    width: 252px;
+    height: 21px;
+   }
+
+.username {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: -46px;
+   top: 346px;
+    width: 252px;
+    height: 21px;
+   }
+
+.phone {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 32px;
+   top: 456px;
+    width: 252px;
+    height: 21px;
+   }
+
+.line-23 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 14px;
+   top: 651px;
+   }
+
+.line-29 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 13px;
+   top: 412px;
+   }
+
+.line-31 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 13px;
+   top: 526px;
+   }
+
+.line-30 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 14px;
+   top: 304px;
+   }
+
+.line-24 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 402px;
+    height: 0px;
+    position: absolute;
+    left: 14px;
+   top: 797px;
+   }
+
+.janinesarcia {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 239px;
+   top: 349px;
+    width: 177px;
+    height: 35px;
+   }
+
+.j-4-gmail-com {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 122px;
+   top: 570px;
+    width: 305px;
+    height: 35px;
+   }
+
+._1 {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 221px;
+   top: 710px;
+    width: 223px;
+    height: 35px;
+   }
+
+._09127768077 {
+   color: #000000;
+    text-align: center;
+    font: 400 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 231px;
+   top: 454px;
+    width: 190px;
+    height: 35px;
+   }
+
+.account-security {
+   color: #5bdbc4;
+    text-align: center;
+    font: 700 24px 'Inter', sans-serif;
+    position: absolute;
+    left: 86px;
+   top: 63px;
+    width: 277px;
+    height: 50px;
+   }
+
+.rectangle-144 {
+   width: 27px;
+    height: 15px;
+    position: absolute;
+    left: 341px;
+   top: 267px;
+   }
+
